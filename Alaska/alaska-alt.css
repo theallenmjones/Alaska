@@ -1,0 +1,666 @@
+* {
+  max-width: 100%;
+}
+
+body {
+background-color: #cccccc;
+
+}
+
+
+a {
+  text-decoration: none;
+  color: white;
+  width: auto;
+}
+
+.active {
+  border-bottom: 5px solid red;
+  background-color: rgba(255, 0, 0, 0.2);
+}
+/*=============================================================
+NAVBAR
+===============================================================*/
+
+.row {
+  /*border: 5px solid green;*/
+  text-align: center;
+}
+
+.nav-item {
+
+  margin: 0px 10px;
+  padding-top: 5%;
+
+
+  }
+
+  .nav {
+    padding-right: 3%;
+  }
+
+.container {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/eb/Flag_map_of_Alaska.png");
+  background-repeat: no-repeat;
+
+
+}
+
+
+
+/*=====================================================================*/
+
+
+/*.logo h1 {
+    border-bottom: 5px solid red;
+  }*/
+
+}
+
+h1 {
+  text-align: center;
+  color: rgba(92, 92, 255, 0.3);
+
+
+}
+
+p{
+  font-size: 1em;
+  text-align: justify;;
+  color: white;
+}
+
+/*.container h1 {
+  font-size: 8em;
+  padding-top: 20%
+}*/
+
+/*.logo {
+  position: absolute;
+  top: 0;
+  left: 10%;*/
+}
+
+
+
+.supporting {
+  text-align: center;
+  padding-top: 10%;
+}
+.btn {
+  background-color: transparent;
+    color:#fff;
+    padding: 8px 40px;
+    margin: 40px auto 10px;
+    font-size: 20px;
+  border: white 2px solid;
+}
+
+
+
+
+/*.logo h1 {
+  border-bottom: 5px solid red;
+  font-size: 2em;
+  text-align: center;*/
+}
+
+.nav {
+  padding-right: 3%;
+}
+
+
+
+
+
+.logo-top h1 {
+  border-bottom: 5px solid red;
+  font-size: 2em;
+  text-align: center;
+  color: white;
+  margin-bottom: 1%;
+  font-family: 'Raleway', sans-serif;
+  padding-bottom: -20px;
+  padding-top: 20%;
+}
+
+
+
+.container2 {
+  max-width: 85%;
+  margin: 0 auto;
+
+}
+
+.offset {
+  padding-left: 7%;
+}
+
+
+.jumbotron-eagle {
+  background:
+
+   linear-gradient(
+     rgba(0, 0, 0, 0.60),
+     rgba(103, 58, 183, 0.60)
+   ), url("http://www.chainimage.com/images/bald-eagle-homer-alaska-1600-1200-hige-resolution-animal-wallpapers.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 100%;
+  }
+
+  .jumbotron-eagle h1 {
+    font-size: 12em;
+  }
+  .jumbotron-eagle h2{
+    font-size: 5em;
+    color: white;
+    border-left: 15px solid red;
+    padding-left: 3%;
+    font-family: 'Raleway', sans-serif;
+
+  }
+
+
+
+  .jumbotron-black-bear {
+    background:
+
+     linear-gradient(
+       rgba(0, 0, 0, 0.60),
+       rgba(103, 58, 183, 0.60)
+     ), url("http://www.montanaoutdoor.com/wp-content/uploads/2015/05/bears_desktop_2700x1809_hd-wallpaper-832781.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    }
+
+    .jumbotron-black-bear h1 {
+      font-size: 6em;
+    }
+
+    .jumbotron-black-bear h2 {
+      font-size: 5em;
+      color: white;
+      text-align: right;
+      border-right: 15px solid red;
+      padding-right: 3%;
+      font-family: 'Raleway', sans-serif;
+
+    }
+
+    .container-bear {
+      text-align: right;
+    }
+
+
+
+
+
+
+    .jumbotron-brown-bear {
+      background:
+
+       linear-gradient(
+         rgba(0, 0, 0, 0.60),
+         rgba(103, 58, 183, 0.60)
+       ), url("http://wallpapercave.com/wp/gDDVZfu.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 600px;
+      width: 100%;
+      }
+
+      .jumbotron-brown-bear h1 {
+        font-size: 6em;
+      }
+      .jumbotron-brown-bear h2 {
+        font-size: 5em;
+        color: white;
+        border-left: 15px solid red;
+        padding-left: 3%;
+        font-family: 'Raleway', sans-serif;
+      }
+
+
+      .jumbotron-caribou {
+        background:
+
+         linear-gradient(
+           rgba(0, 0, 0, 0.60),
+           rgba(103, 58, 183, 0.60)
+         ), url("https://images7.alphacoders.com/384/384435.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 600px;
+        width: 100%;
+        }
+
+        .jumbotron-caribou h1 {
+          font-size: 6em;
+        }
+        .jumbotron-caribou h2 {
+          font-size: 5em;
+          color: white;
+          text-align: right;
+          border-right: 15px solid red;
+          padding-right: 3%;
+          font-family: 'Raleway', sans-serif;
+        }
+
+
+
+.jumbotron-dall-sheep {
+  background:
+
+    linear-gradient(
+      rgba(0, 0, 0, 0.60),
+      rgba(103, 58, 183, 0.60)
+    ), url("https://s3.amazonaws.com/onetouchsites.com/wp-content/uploads/sites/119/2015/06/25070735/bighorn.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 100%;
+  }
+
+  .jumbotron-dall-sheep h1 {
+    font-size: 6em;
+  }
+
+  .jumbotron-dall-sheep h2 {
+    font-size: 5em;
+    color: white;
+    border-left: 15px solid red;
+    padding-left: 3%;
+    font-family: 'Raleway', sans-serif;
+  }
+
+
+
+
+  .jumbotron-moose {
+    background:
+
+      linear-gradient(
+        rgba(0, 0, 0, 0.60),
+        rgba(103, 58, 183, 0.60)
+      ), url("http://www.maxhdwallpaper.com/wp-content/uploads/2016/12/Moose-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    }
+
+    .jumbotron-moose h1 {
+      font-size: 6em;
+    }
+
+    .jumbotron-moose h2 {
+      font-size: 5em;
+      color: white;
+      text-align: right;
+      border-right: 15px solid red;
+      padding-right: 3%;
+      font-family: 'Raleway', sans-serif;
+    }
+
+
+    .jumbotron-mountain-goat {
+      background:
+
+        linear-gradient(
+          rgba(0, 0, 0, 0.60),
+          rgba(103, 58, 183, 0.60)
+        ), url("https://s-media-cache-ak0.pinimg.com/originals/02/df/f8/02dff8f0063e53785b0adbe2250a0702.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 600px;
+      width: 100%;
+      }
+
+      .jumbotron-mountain-goat h1 {
+        font-size: 6em;
+      }
+      .jumbotron-mountain-goat h2 {
+        font-size: 5em;
+        color: white;
+        border-left: 15px solid red;
+        padding-left: 3%;
+        font-family: 'Raleway', sans-serif;
+      }
+
+
+
+
+
+
+
+      .jumbotron-muskox {
+        background:
+
+          linear-gradient(
+            rgba(0, 0, 0, 0.60),
+            rgba(103, 58, 183, 0.60)
+          ), url("http://www.mrwallpaper.com/wallpapers/musk-oxen.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 600px;
+        width: 100%;
+        }
+
+        .jumbotron-muskox h1 {
+          font-size: 6em;
+        }
+        .jumbotron-muskox h2 {
+          font-size: 5em;
+          color: white;
+          text-align: right;
+          border-right: 15px solid red;
+          padding-right: 3%;
+          font-family: 'Raleway', sans-serif;
+        }
+
+
+
+
+
+
+
+
+        .jumbotron-orca {
+          background:
+
+            linear-gradient(
+              rgba(0, 0, 0, 0.60),
+              rgba(103, 58, 183, 0.60)
+            ), url("http://fullhdpictures.com/wp-content/uploads/2016/04/Orca-HD-Wallpaper.jpg");
+          background-size: cover;
+          background-repeat: no-repeat;
+          height: 600px;
+          width: 100%;
+          }
+
+          .jumbotron-orca h1 {
+            font-size: 6em;
+          }
+          .jumbotron-orca h2 {
+            font-size: 5em;
+            color: white;
+            border-left: 15px solid red;
+            padding-left: 3%;
+            font-family: 'Raleway', sans-serif;
+          }
+
+
+          .jumbotron-polar-bear {
+            background:
+
+              linear-gradient(
+                rgba(0, 0, 0, 0.60),
+                rgba(103, 58, 183, 0.60)
+              ), url("http://mosthdwallpapers.com/wp-content/uploads/2016/06/Polar-Bear-HD-Desktop-Wallpapers.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 600px;
+            width: 100%;
+            }
+
+            .jumbotron-polar-bear h1 {
+              font-size: 6em;
+            }
+
+            .jumbotron-polar-bear h2 {
+              font-size: 5em;
+              color: white;
+              text-align: right;
+              border-right: 15px solid red;
+              padding-right: 3%;
+              font-family: 'Raleway', sans-serif;
+            }
+
+
+            .jumbotron-wolverine {
+              background:
+
+                linear-gradient(
+                  rgba(0, 0, 0, 0.60),
+                  rgba(103, 58, 183, 0.60)
+                ), url("https://s-media-cache-ak0.pinimg.com/originals/23/9a/5b/239a5b9a3d5033d85aa31b795a5d3757.jpg");
+              background-size: cover;
+              background-repeat: no-repeat;
+              height: 600px;
+              width: 100%;
+              }
+
+              .jumbotron-wolverine h1 {
+                font-size: 6em;
+              }
+              .jumbotron-wolverine h2 {
+                font-size: 5em;
+                color: white;
+                border-left: 15px solid red;
+                padding-left: 3%;
+                font-family: 'Raleway', sans-serif;
+              }
+
+
+
+
+
+              .jumbotron-wolves {
+                background:
+
+                  linear-gradient(
+                    rgba(0, 0, 0, 0.60),
+                    rgba(103, 58, 183, 0.60)
+                  ), url("http://wallpapercave.com/wp/mgZEHSm.jpg");
+                background-size: cover;
+                background-repeat: no-repeat;
+                height: 600px;
+                width: 100%;
+                }
+
+                .jumbotron-wolves h1 {
+                  font-size: 6em;
+                }
+                .jumbotron-wolves h2 {
+                  font-size: 5em;
+                  color: white;
+                  text-align: right;
+                  border-right: 15px solid red;
+                  padding-right: 3%;
+                  font-family: 'Raleway', sans-serif;
+                }
+
+
+
+
+/*===========================================================
+                        ABOUT
+  ============================================================*/
+
+
+.jumbotron {
+  background:
+
+    linear-gradient(
+      rgba(103, 58, 183, 0.60),
+      rgba(0, 0, 0, 0.60)
+    ), url("https://www.doi.gov/sites/doi.gov/files/uploads/reth_-_group_3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 50%;
+  background-position: 20% 50%;
+  margin-top: 1%;
+}
+
+.jumbotron h2 {
+  font-size: 4em;
+  color: white;
+  border-left: 15px solid red;
+  padding-left: 2%;
+  padding-top: -50%;
+  font-family: 'Raleway', sans-serif;
+
+
+}
+
+
+
+.card-deck {
+  width:80%;
+  margin: 0 auto;
+  background-image: url("https://openclipart.org/image/2400px/svg_to_png/261720/Seamless-Hexagonal-Wireframe-Geometric-Pattern.png")
+  margin-bottom: 15%;
+
+
+
+
+}
+
+.btn {
+  background-color: red;
+  color: white;
+  margin: 20px 0px;
+
+}
+
+.card h4 {
+  border-left: 5px solid red;
+  padding-left: 2%;
+  background-color: rgba(255, 0, 0, 0.1);
+  font-family: 'Raleway';
+  text-transform: uppercase;
+}
+
+.card h5 {
+  color: #808080;
+}
+
+
+.motto {
+  text-align: left;
+  font-size: 25px;
+  padding-left: 5%;
+}
+
+.title {
+  text-align: left;
+}
+
+
+.hello {
+  margin: 10%;
+}
+
+
+
+
+
+
+/*========================================================================
+                              ALASKA NEWS
+=========================================================================*/
+
+.jumbotron-news {
+  background:   linear-gradient(
+      rgba(103, 58, 0, 0.70),
+      rgba(0, 0, 0, 0.50)
+    ), url("http://mapleleafadventures.com/wp-content/uploads/2016/05/alaska-small-cruise-1.jpg?lbisphpreq=1");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 100%;
+  background-position: 70% 60%;
+  margin-top:1%;
+
+}
+
+.jumbotron-news h2 {
+  font-size: 5em;
+  color: white;
+  border-left: 15px solid red;
+  padding-left: 2%;
+  padding-top: -50%;
+  font-family: 'Raleway', sans-serif;
+}
+
+.card-group {
+  margin-top: 0px;
+  border: none;
+}
+
+.middle-section1 {
+  background-color: purple;
+  height: 300px;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.middle-section2 {
+
+  width: 85%;
+  margin: 0 auto;
+
+
+}
+
+.middle-section3 {
+  height: 200px;
+  width: 83%;
+  margin: 5% auto;
+
+}
+
+.last-section {
+  margin-top: 3%;
+}
+
+.title-block {
+  height: 100px;
+}
+
+
+
+.photo-block1 {
+  background-image: url("http://www.agingservicesinc.com/img/example-slide-2.jpg");
+  background-size: cover;
+}
+
+.photo-block2 {
+  background-image: url("https://www.oneblowdrybar.com/wp-content/uploads/2013/05/placeholder1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+
+.card-columns {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  width: 80%;
+  margin: 3% auto;
+}
+
+.card-text {
+  color: black;
+}
+
+.title-news {
+  padding-top: 5%;
+}
+
+.text-right p {
+  color: black;
+}
+
+.p-3 p {
+  color: black;
+}
